@@ -2,6 +2,8 @@
 
 Requires the [**Discord**](https://discordapp.com/) desktop app with [**BetterDiscord**](https://betterdiscord.app/) or [**Vencord**](https://vencord.dev) installed (Or any other Discord client mod that supports themes).
 
+[README_PT_BR](README_pt.md)
+
 ### [**BetterDiscord**](https://betterdiscord.app/):  
 - Download [**DiscordNight.theme.css**](https://betterdiscord.app/Download?id=155) and navigate to **Settings > Themes** and click **Open Themes Folder** or place the file in **%appdata%/BetterDiscord/themes** and then enable **DiscordNight**.  
 If the theme does not show up refresh Discord using **CTRL+R** or restart Discord.
